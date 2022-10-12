@@ -9,7 +9,7 @@ Desenvolvedora Front-End em busca novas oportunidades na área.
 - 🌱 Atualmente estou aprendendo Design System, documentando todos os componentes utilizando o Story Book.
 - ✅ Estou finalizando um projeto pessoal onde foi desenvolvido desde o layout do site através do Figma até o código, totalmente responsivo.
 - 🤝 Em meus projetos sempre viso as boas práticas, acessibilidade e a melhor usabilidade do usuário.
-   
+    
    
 ### Ferramentas e tecnologias
    
@@ -22,7 +22,7 @@ Desenvolvedora Front-End em busca novas oportunidades na área.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40"/>
 <div>
-   
+
    
 ### Contatos
   
@@ -31,10 +31,9 @@ Desenvolvedora Front-End em busca novas oportunidades na área.
 <a href = "piovmari@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <div>
    
-  
-    
+<br>   
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/marianapiovezan">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianapiovezan&layout=compact&langs_count=7&theme=vue"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianapiovezan&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
 </div>
