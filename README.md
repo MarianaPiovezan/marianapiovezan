@@ -5,7 +5,7 @@ Desenvolvedora Front-End em busca novas oportunidades na área.
    
    
 - 🔭 Sou formada na área de design gráfico mas iniciei meus estudos na área de programação em 2021.
-- 🔎 Atualmente estou aprendendo o fremework ReactJs
+- 🔎 Atualmente estou aprendendo o fremework ReactJs.
 - 🌱 Atualmente estou aprendendo Design System, documentando todos os componentes utilizando o Story Book.
 - ✅ Estou finalizando um projeto pessoal onde foi desenvolvido desde o layout do site através do Figma até o código, totalmente responsivo.
 - 🤝 Em meus projetos sempre viso as boas práticas, acessibilidade e a melhor usabilidade do usuário.
@@ -34,7 +34,7 @@ Desenvolvedora Front-End em busca novas oportunidades na área.
 <br>   
 <div>
 <a href="https://github.com/marianapiovezan">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianapiovezan&layout=compact&langs_count=7&theme=vue"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=marianapiovezan&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianapiovezan&layout=compact&langs_count=7&theme=vue"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=marianapiovezan&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
 </div>
 
