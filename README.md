@@ -6,7 +6,7 @@ Desenvolvedora Front-End em busca novas oportunidades na área.
    
 - 🔭 Sou formada na área de design gráfico mas iniciei meus estudos na área de programação em 2021.
 - 🔎 Atualmente estou aprendendo o fremework ReactJs.
-- 🌱 Atualmente estou aprendendo Design System, documentando todos os componentes utilizando o Story Book.
+- 🌱 Atualmente estou aprendendo Design System, documentando todos os componentes utilizando o Storybook.
 - ✅ Estou finalizando um projeto pessoal onde foi desenvolvido desde o layout do site através do Figma até o código, totalmente responsivo.
 - 🤝 Em meus projetos sempre viso as boas práticas, acessibilidade e a melhor usabilidade do usuário.
     
