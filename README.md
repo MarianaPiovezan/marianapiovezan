@@ -6,7 +6,7 @@ Desenvolvedora Front-End com background em UI/UX em busca novas oportunidades na
    
 - 🔭 Sou formada na área de design gráfico mas iniciei meus estudos na área de programação em 2021.
 - 🔎 Atualmente desenvolvo meus projetos com a biblioteca ReactJs.
-- 🌱 
+- 🌱 Hard Skills: React Js | JavaScript | Angular | Bootstrap | Redux | Tailwind | UI/UX | Styled Components.
 - ✅ Desenvolvo desde o layout do site através do Figma até o código, totalmente responsivo seguindo conceito mobile first.
 - 🤝 Em meus projetos sempre viso as boas práticas, acessibilidade e a melhor usabilidade do usuário.
     
