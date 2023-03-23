@@ -41,5 +41,5 @@ Desenvolvedora Front-End com background em UI/UX em busca novas oportunidades na
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianapiovezan&layout=compact&theme=vue"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marianapiovezan&show_icons=true&theme=vue"/>
 </div>
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marianapiovezan)](https://github.com/marianapiovezan/github-readme-stats)
+ 
 
