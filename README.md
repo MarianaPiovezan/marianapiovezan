@@ -38,7 +38,7 @@ Desenvolvedora Front-End com background em UI/UX em busca novas oportunidades na
 <br>   
 <div>
 <a href="https://github.com/marianapiovezan">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianapiovezan&layout=compact"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianapiovezan&layout=compact&theme=vue"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marianapiovezan&show_icons=true&theme=vue"/>
 </div>
 
